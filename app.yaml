@@ -4,5 +4,5 @@ runtime: python27
 threadsafe: true
 
 handlers:
-- url: /gcloudTest
-  script: gcloudScript.py
+- url: /
+  script: gScript.py
